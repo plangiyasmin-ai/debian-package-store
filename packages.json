@@ -1,0 +1,124 @@
+{
+  "packages": [
+    {
+      "name": "a11y-profile-manager",
+      "version": "latest",
+      "description": "Application to allow easy selection of accessibility profiles",
+      "category": "utils"
+    },
+    {
+      "name": "abiword",
+      "version": "latest",
+      "description": "Efficient, featureful word processor with collaboration",
+      "category": "editors"
+    },
+    {
+      "name": "acct",
+      "version": "latest",
+      "description": "GNU Accounting utilities for process and login accounting",
+      "category": "admin"
+    },
+    {
+      "name": "ace-link",
+      "version": "latest",
+      "description": "Quickly follow links in Emacs using ace-jump",
+      "category": "editors"
+    },
+    {
+      "name": "acl",
+      "version": "latest",
+      "description": "Access control list utilities",
+      "category": "utils"
+    },
+    {
+      "name": "acpi",
+      "version": "latest",
+      "description": "displays information on ACPI devices",
+      "category": "utils"
+    },
+    {
+      "name": "acpi-support",
+      "version": "latest",
+      "description": "scripts for handling ACPI events",
+      "category": "admin"
+    },
+    {
+      "name": "acpid",
+      "version": "latest",
+      "description": "Advanced Configuration and Power Interface event daemon",
+      "category": "admin"
+    },
+    {
+      "name": "adduser",
+      "version": "latest",
+      "description": "add and remove users and groups",
+      "category": "admin"
+    },
+    {
+      "name": "adwaita-icon-theme",
+      "version": "latest",
+      "description": "default icon theme of GNOME",
+      "category": "desktop"
+    },
+    {
+      "name": "aisleriot",
+      "version": "latest",
+      "description": "GNOME solitaire card game collection",
+      "category": "games"
+    },
+    {
+      "name": "alsa-base",
+      "version": "latest",
+      "description": "ALSA driver configuration files",
+      "category": "sound"
+    },
+    {
+      "name": "alsa-utils",
+      "version": "latest",
+      "description": "Utilities for configuring and using ALSA",
+      "category": "sound"
+    },
+    {
+      "name": "anacron",
+      "version": "latest",
+      "description": "cron-like program that doesn't go by time",
+      "category": "admin"
+    },
+    {
+      "name": "apache2",
+      "version": "latest",
+      "description": "Apache HTTP Server",
+      "category": "web"
+    },
+    {
+      "name": "apt",
+      "version": "latest",
+      "description": "commandline package manager",
+      "category": "admin"
+    },
+    {
+      "name": "apt-utils",
+      "version": "latest",
+      "description": "package management related utility programs",
+      "category": "admin"
+    },
+    {
+      "name": "aptitude",
+      "version": "latest",
+      "description": "terminal-based package manager",
+      "category": "admin"
+    },
+    {
+      "name": "at",
+      "version": "latest",
+      "description": "Delayed job execution and batch processing",
+      "category": "admin"
+    },
+    {
+      "name": "autoconf",
+      "version": "latest",
+      "description": "automatic configure script builder",
+      "category": "devel"
+    }
+  ]
+}
